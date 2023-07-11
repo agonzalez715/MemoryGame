@@ -1,0 +1,20 @@
+#game div {
+    border: 5px solid black;
+    width: 15%;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+  }
+
+body {
+  background-color: skyblue;
+}
+
+h1 {
+  font-family: 'BebasNeue';
+  font-weight: 100;
+  font-style: normal;
+  src: url('../fonts/BebasNeue/BebasNeue Thin.otf') format('opentype');
+  text-align: center;
+}
+
